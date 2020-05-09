@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sphinx",
+				"sphinx_rtd_theme"
+			],
+			[
+				"sphi",
+				"sphinx_rtd_theme"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rishi/vrep_eysip_reports"
+	],
+	"file_history":
+	[
+		"/home/rishi/vrep_progress/vrep_docs/overview/dump.txt",
+		"/home/rishi/.bashrc",
+		"/home/rishi/.bash_aliases",
+		"/home/rishi/vrep_progress/vrep_docs/overview/CSatEY.rst",
+		"/home/rishi/vrep_progress/vrep_docs/_assets/Construct-O-Bot_Task1-A/3.CB Project/CB_Task_1_Predef.cpp",
+		"/home/rishi/vrep_progress/vrep_docs/overview/predef.rst",
+		"/home/rishi/vrep_progress/vrep_docs/_assets/Predef.pdf",
+		"/home/rishi/vrep_progress/vrep_docs/overview/doc_overview.rst",
+		"/home/rishi/pdf_scraper_proj/index.rst",
+		"/home/rishi/.bash",
+		"/home/rishi/flock_catkin_ws/src/flock_base/package.xml",
+		"/home/rishi/flock_catkin_ws/src/flock_driver/package.xml",
+		"/home/rishi/attr_parser/main.cpp",
+		"/home/rishi/flock_catkin_ws/src/flock_description/package.xml",
+		"/media/rishi/009E7A369E7A23F6/Users/E3-112M/Documents/bootcamp_prop.txt",
+		"/home/rishi/Downloads/Morgan Quigley, Brian Gerkey, William D. Smart - Programming Robots with ROS_ A Practical Introduction to the Robot Operating System. Code-O’Reilly Media (2015)/Programming_Robots_with_ROS00022.smil",
+		"/home/rishi/Downloads/Morgan Quigley, Brian Gerkey, William D. Smart - Programming Robots with ROS_ A Practical Introduction to the Robot Operating System. Code-O’Reilly Media (2015)/Programming_Robots_with_ROS00001.smil",
+		"/home/rishi/Downloads/Morgan Quigley, Brian Gerkey, William D. Smart - Programming Robots with ROS_ A Practical Introduction to the Robot Operating System. Code-O’Reilly Media (2015)/Programming_Robots_with_ROS.ncx"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eysip_reports.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
