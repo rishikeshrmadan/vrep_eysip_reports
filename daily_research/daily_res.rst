@@ -9,8 +9,7 @@ Daily Research log (and format)
    sq1_daily_res/sq1_d0_res
    sq2_daily_res/sq2_d0_res
    sq3_daily_res/sq3_d0_res
-
-
+   Proposed_Graph_Format
 
 .. Indices and tables
 .. ==================

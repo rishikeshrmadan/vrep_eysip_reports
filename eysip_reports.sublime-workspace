@@ -15,6 +15,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "daily_research/sq3_daily_res/sq3_d0_res.rst",
+			"settings":
+			{
+				"buffer_size": 604,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daily_research/sq2_daily_res/sq2_d0_res.rst",
+			"settings":
+			{
+				"buffer_size": 607,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
+			"settings":
+			{
+				"buffer_size": 657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -56,10 +83,31 @@
 	},
 	"expanded_folders":
 	[
-		"/home/rishi/vrep_eysip_reports"
+		"/home/rishi/vrep_eysip_reports",
+		"/home/rishi/vrep_eysip_reports/daily_reports",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq1_daily_rep",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq2_daily_rep",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq3_daily_rep",
+		"/home/rishi/vrep_eysip_reports/daily_research",
+		"/home/rishi/vrep_eysip_reports/daily_research/sq1_daily_res",
+		"/home/rishi/vrep_eysip_reports/daily_research/sq2_daily_res",
+		"/home/rishi/vrep_eysip_reports/daily_research/sq3_daily_res"
 	],
 	"file_history":
 	[
+		"/home/rishi/vrep_eysip_reports/daily_research/sq1_daily_res/sq1_d0_res.rst",
+		"/home/rishi/vrep_eysip_reports/squad.rst",
+		"/home/rishi/vrep_eysip_reports/daily_reports/daily_rep.rst",
+		"/home/rishi/vrep_eysip_reports/daily_research/daily_res.rst",
+		"/home/rishi/vrep_eysip_reports/index.rst",
+		"/home/rishi/vrep_eysip_reports/.gitignore",
+		"/home/rishi/vrep_eysip_reports/conf.py",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq2_daily_rep/sq2_d0_rep.rst",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq3_daily_rep/sq3_d0_rep.rst",
+		"/home/rishi/vrep_eysip_reports/daily_research/sq3_daily_res/sq3_d0_res.rst",
+		"/home/rishi/vrep_eysip_reports/daily_research/sq2_daily_res/sq2_d0_res.rst",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq_1_daily_rep/sq1_d0_rep.rst",
+		"/home/rishi/vrep_eysip_reports/daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
 		"/home/rishi/vrep_progress/vrep_docs/overview/dump.txt",
 		"/home/rishi/.bashrc",
 		"/home/rishi/.bash_aliases",
@@ -81,7 +129,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 66.0
 	},
 	"find_in_files":
 	{
@@ -112,18 +160,106 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "daily_research/sq3_daily_res/sq3_d0_res.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "daily_research/sq2_daily_res/sq2_d0_res.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"SL.81.region_keys":
+							[
+							],
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 66.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 78.0
 	},
 	"layout":
 	{
@@ -160,7 +296,7 @@
 	"project": "eysip_reports.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 128.0
 	},
 	"save_all_on_build": true,
 	"select_file":
