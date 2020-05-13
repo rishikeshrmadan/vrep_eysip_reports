@@ -48,11 +48,14 @@ Work done:
 ----------
 1. Set up sphinx
 2. Made this doc
+3. Installed Inkscape and created some svg file.
+4. Tested passing library for svg file. 
 
 Insights and Learnings:
 -----------------------
 1. Learnt about automatic doc generation systems
 2. Overview of how Sphonx works
+3. Learnt about svg file and its representation.
 
 Research & links:
 -----------------
