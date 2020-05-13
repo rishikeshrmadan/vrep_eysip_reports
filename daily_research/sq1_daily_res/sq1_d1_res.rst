@@ -1,11 +1,12 @@
 ****************************
-Squad 3's Day 0 research log
+Squad 1's Day 1 research log
 ****************************
 
-.. _bb_d0_1:
 
-Fusion 360 screw mechanisms
----------------------------
+.. _ag_d1_1:
+
+Dummy text 
+----------
 
    ( ^ A short searchable descripttion of the for future access by anyone.)
    Details with links here.
@@ -13,24 +14,25 @@ Fusion 360 screw mechanisms
    In the reference tag:
    1. Intial of member
    2. Day
-   3. Sr no. of section
+   3. Index
       
 
-.. _bb_rk_d0_2:
+.. _ag_ap_d1_2:
 
-Exploration of various gripper alternatives
--------------------------------------------
+Exploration of PDFs as alternatives
+-----------------------------------
 
    ( ^ A short searchable descripttion of the for future access by anyone.)
    Details with links here.
 
-   1. Simplest System
-   2. Toughest System
+   1. Image processing method
+   2. Parser method
+   3. Elaboration and links
       
-.. _rk_d0_3:
+.. _ap_sp_d1_3:
 
-Various mechanism of grippers
------------------------------
+Texture imports into V-REP
+--------------------------
 
    Use the reStructured Text features to code
-
+      
