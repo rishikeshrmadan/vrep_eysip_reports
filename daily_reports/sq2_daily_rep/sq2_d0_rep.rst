@@ -2,8 +2,8 @@
 Squad 2's Day 0 report
 **********************
 
-Member 1 - Member Name
-======================
+MD Ruhulamin Khan
+=================
 
 Work done:
 ----------
@@ -17,11 +17,12 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`sq2_d12_m3_m4_3`
+:ref:`md_d0_1`
+:ref:`md_ns_d0_2`
+:ref:`md_d0_4`
 
-
-Member 2 - Member Name
-======================
+Narendhiran S
+=============
 
 Work done:
 ----------
@@ -35,4 +36,5 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`sq2_d12_m3_m4_3`
+:ref:`md_ns_d0_2`
+:ref:`ns_d0_3`

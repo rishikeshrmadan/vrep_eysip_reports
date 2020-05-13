@@ -1,5 +1,5 @@
-Squads, squad-leaders and duties
-============================================
+Squad-leaders roles and duties
+==============================
 
    Squad-leaders shall be appointed on a rotating basis, stating May 11 2020, for a tenure of 5 days each.
 

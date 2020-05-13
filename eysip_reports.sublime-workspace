@@ -19,27 +19,45 @@
 			"file": "daily_research/sq3_daily_res/sq3_d0_res.rst",
 			"settings":
 			{
-				"buffer_size": 604,
+				"buffer_size": 738,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "daily_research/sq2_daily_res/sq2_d0_res.rst",
+			"file": "index.rst",
 			"settings":
 			{
-				"buffer_size": 607,
+				"buffer_size": 520,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
+			"file": "squad_leader_roles.rst",
 			"settings":
 			{
-				"buffer_size": 657,
+				"buffer_size": 1116,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "squads.rst",
+			"settings":
+			{
+				"buffer_size": 293,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conf.py",
+			"settings":
+			{
+				"buffer_size": 2035,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -83,18 +101,27 @@
 	},
 	"expanded_folders":
 	[
-		"/home/rishi/vrep_eysip_reports",
-		"/home/rishi/vrep_eysip_reports/daily_reports",
-		"/home/rishi/vrep_eysip_reports/daily_reports/sq1_daily_rep",
-		"/home/rishi/vrep_eysip_reports/daily_reports/sq2_daily_rep",
-		"/home/rishi/vrep_eysip_reports/daily_reports/sq3_daily_rep",
-		"/home/rishi/vrep_eysip_reports/daily_research",
-		"/home/rishi/vrep_eysip_reports/daily_research/sq1_daily_res",
-		"/home/rishi/vrep_eysip_reports/daily_research/sq2_daily_res",
-		"/home/rishi/vrep_eysip_reports/daily_research/sq3_daily_res"
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1"
 	],
 	"file_history":
 	[
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_reports/sq3_daily_rep/sq3_d0_rep.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/conf.py",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_progress/vrep_docs/conf.py",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_reports/sq2_daily_rep/sq2_d0_rep.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_research/sq2_daily_res/sq2_d0_res.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1/sq2_week_1_overview.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_research/Proposed_Graph_Format.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_research/sq1_daily_res/sq1_d0_res.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1/sq3_week_1_overview.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1/sq1_week_1_report.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1/sq1_week_1_overview.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1/sq2_week_1_report.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/week_1/sq3_week_1_report.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/.gitignore",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/eysip_tello_reports.sublime-project",
 		"/home/rishi/vrep_eysip_reports/daily_research/sq1_daily_res/sq1_d0_res.rst",
 		"/home/rishi/vrep_eysip_reports/squad.rst",
 		"/home/rishi/vrep_eysip_reports/daily_reports/daily_rep.rst",
@@ -129,13 +156,14 @@
 	],
 	"find":
 	{
-		"height": 66.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -143,6 +171,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_assets"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -160,7 +189,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -169,15 +198,46 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 604,
+						"buffer_size": 738,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								291,
-								291
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"SL.30.region_keys":
+							[
+							],
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								381
 							]
 						],
 						"settings":
@@ -188,24 +248,52 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "daily_research/sq2_daily_res/sq2_d0_res.rst",
+					"buffer": 2,
+					"file": "squad_leader_roles.rst",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 607,
+						"buffer_size": 1116,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								291,
-								291
+								61,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "squads.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
 							]
 						],
 						"settings":
@@ -220,34 +308,39 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
+					"buffer": 4,
+					"file": "conf.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 657,
+						"buffer_size": 2035,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								340,
-								340
+								2011,
+								2011
 							]
 						],
 						"settings":
 						{
-							"SL.81.region_keys":
+							"SL.71.region_keys":
 							[
+								"SL.flake8.Highlights.|96e7d15e418f93d4f1425b4151a13f58c3f5d370d2eb31d78e029ea5e4994c59|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|00372686ee695fe98882a26bccc039db933713cf854063ade5559dec9f2dea4c|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|81e04ece58afe26a827b834bcc4f7accc391844cabfcec84b9c03da2babee8e9|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
 							],
-							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -255,7 +348,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 66.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -296,7 +389,7 @@
 	"project": "eysip_reports.sublime-project",
 	"replace":
 	{
-		"height": 128.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":

@@ -9,10 +9,11 @@ Welcome to eysip_reports's documentation!
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
+   :glob:
 
-   squad
-   daily_reports/daily_rep
-   daily_research/daily_res
+   squads
+   squad_leader_roles
+   week_[1-6]/sq[1-3]*
 
 
 Indices and tables

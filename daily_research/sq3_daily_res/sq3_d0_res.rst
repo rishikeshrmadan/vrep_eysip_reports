@@ -3,16 +3,35 @@ Squad 3's Day 0 research log
 ****************************
 
 
-.. _sq3_d12_m3_m4_3:
+.. _bb_d0_1:
 
-A technique to change Sphinx Themes
------------------------------------
+Fusion 360 screw mechanisms
+---------------------------
 
    ( ^ A short searchable descripttion of the for future access by anyone.)
    Details with links here.
 
    In the reference tag:
-   1. sq3 is the squad
-   2. 12 is the consecutive day of the internship, i.e. 
-   3. m3 and m4 are IDs of members who read that content, so here 3 & 4 either collaborated (worked jointly) or independently discovered the same thing.
-   4. 3 is the serial number of the inputs for that day.
+   1. Intial of member
+   2. Day
+   3. Sr no. of section
+      
+
+.. _bb_rk_d0_2:
+
+Exploration of various gripper alternatives
+-------------------------------------------
+
+   ( ^ A short searchable descripttion of the for future access by anyone.)
+   Details with links here.
+
+   1. Simplest System
+   2. Toughest System
+      
+.. _rk_d0_3:
+
+Various mechanism of grippers
+-----------------------------
+
+   Use the reStructured Text features to code
+

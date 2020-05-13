@@ -2,8 +2,8 @@
 Squad 3's Day 0 report
 **********************
 
-Member 1 - Member Name
-======================
+Balaji B
+========
 
 Work done:
 ----------
@@ -17,11 +17,11 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`sq3_d12_m3_m4_3`
+:ref:`bb_d0_1`
+:ref:`bb_rk_d0_2`
 
-
-Member 2 - Member Name
-======================
+Rushikesh Khoche
+================
 
 Work done:
 ----------
@@ -35,4 +35,5 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`sq3_d12_m3_m4_3`
+:ref:`bb_rp_d0_2`
+:ref:`rk_d0_3`
