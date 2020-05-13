@@ -14,29 +14,34 @@ The Proposal is to make a Binary file by Pickling a Python object to store the d
 
 * A node object will have:
 	1. Its x,y position
-	2. A pointer list tahi stores references to all lines that connect to the node and the Pick/Place_Spot connected to that node.
+	2. The Pick/Place_Spot connected to that node.
+	3. A pointer list that stores references to all lines that connect to the node
 
 * A Straight line object will have:
-	1. its start and end (x,y) position
-	2. pointers pointing to the nodes it connects and also points the Weight of the Line.
-.. note:: Weight is a number, measured in dependance with the distance, Path above the ground or below.
+	1. Its start and end (x,y) position
+	2. The Weight of the Line.
+	3. Pointers pointing to the nodes it connects to
 	
+.. note:: Weight is a number, measured in dependance with the distance, Path above the ground or below.
 
 * A Jagged line object will have:
-	1. its start and end (x,y) position
-	2. pointers pointing to the nodes it connects and also points the Weight of the Line.
-	3. A Flag indicationg its a jagged line
+	1. Its start and end (x,y) position
+	2. Pointers pointing to the nodes it connects to
+	3. The Weight of the Line.
+	4. A Flag indicationg its a jagged line
 
 * An Inverse Line object will have:
 	1. its start and end (x,y) position
-	2. pointers pointing to the nodes it connects and also points the Weight of the Line.
-	3. A Flag indicationg its an inverse line
+	2. Pointers pointing to the nodes it connects to
+	3. The Weight of the Line.
+	4. A Flag indicationg its an inverse line
 
 * A Curved Line object will have:
 	1. its start and end (x,y) position
-	2. pointers pointing to the nodes it connects and also points the Weight of the Line.
-	3. A Flag indicationg its a curved line
-	4. a string that will show the svg repesentation of the curved line
+	2. Pointers pointing to the nodes it connects to
+	3. The Weight of the Line.
+	4. A Flag indicationg its a curved line
+	5. a string that will show the svg repesentation of the curved line
 
 The arena Object will have lists for all these objects.
 With this Information we can exhaustively and completely describe the arena with out file.
