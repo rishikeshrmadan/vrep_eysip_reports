@@ -17,7 +17,7 @@ Work done:
 Insights and Learnings:
 -----------------------
 1. Learnt about automatic doc generation systems
-2. Overview of how Sphonx works
+2. Overview of how Sphinx works
 
 Research & links:
 -----------------
