@@ -1,5 +1,5 @@
 **********************
-Squad 2's Day 0 report
+Squad 2's Day 2 report
 **********************
 
 MD Ruhulamin Khan
