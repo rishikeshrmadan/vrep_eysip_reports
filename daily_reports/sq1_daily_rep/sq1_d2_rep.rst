@@ -7,19 +7,19 @@ Abhishek Gouda
 
 Work done:
 ----------
-1. Downloaded Inkscape and Corel Draw
-2. asdas
+1. Converted cdr files to svg
+2. Testing the code for different svg files
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphinx works
+1.export settings for svg files
+2.possible cases for arena
 
 Research & links:
 -----------------
-:ref:`ag_d1_1`
+:ref:`ag_d2_1`
 
-:ref:`ag_ap_d1_2`
+:ref:`ag_ap_md_d2_2`
 
 
 Ayush Patel
