@@ -22,18 +22,22 @@ Research & links:
 :ref:`ag_ap_d1_2`
 
 
-Aayush Patel
+Ayush Patel
 ============
 
 Work done:
 ----------
-1. Set up sphinx
-2. Made this doc
+1. Exploring possible conversions/parsing and structure of .cdr file
+2. Learning SVG structure
+3. Learnt Arena Creation in VREP
+4. Studying how to use Regular API to create arena elements
+
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphonx works
+1. Possible CDR conversions and its potential for our usecase.
+2. SVG structure.
+3. VREP Regular and Remote API usage for our usecase.
 
 Research & links:
 -----------------
