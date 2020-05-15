@@ -47,11 +47,12 @@ Shivam Patil
 Work done:
 ----------
 1.Resolved Abhisheks doubt in report filing
+2.Created script to generate arena image from json file
 
 Insights and Learnings:
 -----------------------
-1. Learnt about svg attributes parameter
-2. Learnt about svg parsing lib in python. 
+1. Learnt about Dictionaries in python
+2. Learnt about json objects and its creation in python
 
 Research & links:
 -----------------
