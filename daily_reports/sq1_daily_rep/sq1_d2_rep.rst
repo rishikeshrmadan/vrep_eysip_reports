@@ -22,18 +22,20 @@ Research & links:
 :ref:`ag_ap_d1_2`
 
 
-Aayush Patel
+Ayush Patel
 ============
 
 Work done:
 ----------
-1. Set up sphinx
-2. Made this doc
+1. Tested pdf as an alternative to SVG for arena representation.
+2. Discussed and planned out the ways to extract data and store them to the graph structure.
+3. Created a script and JSON structure to store position data of nodes, paths, and curves. 
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphonx works
+1. PDF parsers
+2. Studied SVG structure and representation of the arena in the SVG structure.
+3. SVG Parsing and JSON builder in python.
 
 Research & links:
 -----------------
@@ -46,7 +48,7 @@ Shivam Patil
 
 Work done:
 ----------
-1. Studied avg files attribute and how arena's objects are represented in svg.
+1. Studied svg files attribute and how arena's objects are represented in svg.
 2. Used class attribute to differentiate between dotted lines and normal lines.
 
 Insights and Learnings:
