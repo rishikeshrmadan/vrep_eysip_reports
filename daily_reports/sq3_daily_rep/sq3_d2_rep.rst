@@ -25,15 +25,16 @@ Rushikesh Khoche
 
 Work done:
 ----------
-1. Installed fusion 360
-2. Created basic models in fusion360
+1. Discovered various arms
+2.learned about Revolute Joints
 
 Insights and Learnings:
 -----------------------
-1. Basics of Fusion 360
-2. documentation using sphinx
+1. try for basic Gripper structre.
+2. explored more about Sphinix.
 
 Research & links:
 -----------------
-:ref:`bb_rp_d0_2`
+`Youtube <https://www.youtube.com/watch?v=6aXWUVy1zro>`_
+
 :ref:`rk_d0_3`
