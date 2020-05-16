@@ -8,7 +8,10 @@ Fusion 360 screw mechanisms
 ---------------------------
 `Screw mechanisms <http://www.brainkart.com/article/Various-types-of-Gripper-mechanisms_5144/>`_
 
-.. _bb_rk_d1_2:
+
+
+
+.. _bb_d1_2:
 
 Exploration of various gripper alternatives
 -------------------------------------------

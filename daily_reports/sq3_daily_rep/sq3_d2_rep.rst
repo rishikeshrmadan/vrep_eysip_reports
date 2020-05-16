@@ -1,5 +1,5 @@
 **********************
-Squad 3's Day 1 report
+Squad 3's Day 2 report
 **********************
 
 Balaji B
@@ -7,20 +7,18 @@ Balaji B
 
 Work done:
 ----------
-1. Explored diffrent types of grippers and their mechanisms
-2. designed an arm structure in fusion 360
-3. Created documentation using sphinx
+1. Designed basic gripper model in fusion 360
+2. introduction to joints in Coppeliasim(vrep)
+3. simulation of revolute joints in vrep
 
 Insights and Learnings:
 -----------------------
-1. Various mechanisms of arms and grippers
-2. learnt about joints in fusion 360
-3. Documtation using sphinx
+1. joint mechanisms
+2. simulation of revolute joints in vrep
 
 Research & links:
 -----------------
-1. :ref:`bb_d1_1`
-2. :ref:`bb_d1_2`
+:ref:`bb_d2_1`
 
 Rushikesh Khoche
 ================

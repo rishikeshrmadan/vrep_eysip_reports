@@ -1,5 +1,5 @@
 =========================
-Squad 1's Week 1 overview
+Squad 3's Week 1 overview
 =========================
 
 This is the overview section.
