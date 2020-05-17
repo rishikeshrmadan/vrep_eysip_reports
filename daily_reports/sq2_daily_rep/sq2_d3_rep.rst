@@ -40,8 +40,8 @@ Insights and Learnings:
 2. python documentation on dom.
 Research & links:
 -----------------
-:ref:`https://www.youtube.com/watch?v=Tr4t1Bfpvbs`
-:ref:`https://www.youtube.com/watch?v=iKfFNNtfpMU`
-:ref:`https://www.youtube.com/watch?v=iKfFNNtfpMU`
-:ref:`https://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html`
+:ref: `https://www.youtube.com/watch?v=Tr4t1Bfpvbs`
+:ref: `https://www.youtube.com/watch?v=iKfFNNtfpMU`
+:ref: `https://www.youtube.com/watch?v=iKfFNNtfpMU`
+:ref: `https://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html`
 
