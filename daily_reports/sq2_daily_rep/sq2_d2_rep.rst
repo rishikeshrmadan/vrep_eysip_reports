@@ -40,4 +40,3 @@ Research & links:
 	:ref: `https://www.guru99.com/manipulating-xml-with-python.html`
 	:ref: `https://www.youtube.com/watch?v=8RqxxVEGY-A`
 	:ref: `https://www.coppeliarobotics.com/helpFiles/en/pathImportExport.htm`
-	:ref: ``
