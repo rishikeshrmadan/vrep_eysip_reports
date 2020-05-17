@@ -36,5 +36,7 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`md_ns_d1_2`
-:ref:`ns_d1_3`
+:ref: `https://www.coppeliarobotics.com/helpFiles/en/dataStreamTypes.htm`
+:ref: `https://www.youtube.com/results?search_query=json+stream+from+vrep`
+:ref: `https://www.youtube.com/watch?v=jAWXbjFCpWk`
+:ref: `https://3dprintingsystems.com/converting-images-into-3d-models/`
