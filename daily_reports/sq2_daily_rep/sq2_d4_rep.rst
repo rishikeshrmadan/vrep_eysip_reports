@@ -34,6 +34,6 @@ Insights and Learnings:
 Research & links:
 -----------------
 :ref: `https://docs.python.org/3.9/library/xml.dom.html`
-:ref:`https://www.youtube.com/watch?v=r6dyk68gymk&t=344s`
+:ref: `https://www.youtube.com/watch?v=r6dyk68gymk&t=344s`
 :ref: `https://docs.python.org/3.9/library/xml.etree.elementtree.html`
 
