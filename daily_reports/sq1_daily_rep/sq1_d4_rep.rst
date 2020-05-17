@@ -22,18 +22,17 @@ Research & links:
 :ref:`ag_ap_d1_2`
 
 
-Aayush Patel
+Ayush Patel
 ============
 
 Work done:
 ----------
-1. Set up sphinx
-2. Made this doc
+1. Testing and finding bugs in arena exporting package.
+2. Comparing different CorelDraw versions exported svg's, to make the graph robust. 
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphonx works
+1. Difference between SVG versions.
 
 Research & links:
 -----------------
@@ -46,7 +45,7 @@ Shivam Patil
 
 Work done:
 ----------
-1.Detected a point in path adn created a dictionary
+1.Detected a point in path and created a dictionary
 
 Insights and Learnings:
 -----------------------

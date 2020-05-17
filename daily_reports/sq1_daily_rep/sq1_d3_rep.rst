@@ -22,18 +22,18 @@ Research & links:
 :ref:`ag_ap_d1_2`
 
 
-Aayush Patel
+Ayush Patel
 ============
 
 Work done:
 ----------
-1. Set up sphinx
-2. Made this doc
+1. Created JSON exporter
+2. Tested Graph parser
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphonx works
+1. JSON Structures.
+2. Studied difference between svg file created by different versions of CorelDraw.
 
 Research & links:
 -----------------
