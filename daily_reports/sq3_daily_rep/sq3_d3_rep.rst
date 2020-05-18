@@ -25,15 +25,15 @@ Rushikesh Khoche
 
 Work done:
 ----------
-1. Installed fusion 360
-2. Created basic models in fusion360
+1. Designed robotic arm and its componets.
+
 
 Insights and Learnings:
 -----------------------
-1. Basics of Fusion 360
-2. documentation using sphinx
+1. Explore Verious Commands and their practical use under Fusion 360.
 
 Research & links:
 -----------------
-:ref:`bb_rp_d0_2`
+`:Autocad Tutorial: <https://www.autodesk.com/autodesk-university/class/Fusion-360-Quick-Tip-Jam-Session-2017>`_
+
 :ref:`rk_d0_3`
