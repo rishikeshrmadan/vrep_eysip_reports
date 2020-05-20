@@ -1,5 +1,5 @@
 **********************
-Squad 1's Day 6 report
+Squad 1's Day 6 report (20/05)
 **********************
 Abhishek Gouda
 ==============
@@ -46,10 +46,11 @@ Shivam Patil
 Work done:
 ----------
 1.Testing of graph function of various arenas
+2.Presentation work
 
 Insights and Learnings:
 -----------------------
-
+1.introduction to latex
 
 Research & links:
 -----------------
