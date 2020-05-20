@@ -26,12 +26,15 @@ Ayush Patel
 
 Work done:
 ----------
-1. Testing and finding bugs in arena exporting package.
-2. Comparing different CorelDraw versions exported svg's, to make the graph robust. 
+1. Created Circle, Ellipse Parser, Polyline Parser,json curve display function, modified code to create less redundant data
+2. Succesfull tested out differnt svg versions and coreldraw versions with the exporting package
+3. Testing and finding bugs in arena exporting package.
+ 
 
 Insights and Learnings:
 -----------------------
-1. Difference between SVG versions.
+1. SVG Shapes.
+2. Converting basic Shapes to paths in svg.
 
 Research & links:
 -----------------

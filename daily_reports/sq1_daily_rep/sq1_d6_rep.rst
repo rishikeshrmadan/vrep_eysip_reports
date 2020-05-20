@@ -1,5 +1,5 @@
 **********************
-Squad 1's Day 5 report
+Squad 1's Day 6 report
 **********************
 Abhishek Gouda
 ==============
@@ -27,7 +27,8 @@ Ayush Patel
 Work done:
 ----------
 1. Testing and finding bugs in arena exporting package.
-2. Comparing different CorelDraw versions exported svg's, to make the graph robust. 
+2. Added more indepth display functionality, shows nodes,paths and cuvres with its identification tag in json representation.
+3. Optimized connector script, export_json and graph script to reduce redundant data, gives the least redundant data.
 
 Insights and Learnings:
 -----------------------
