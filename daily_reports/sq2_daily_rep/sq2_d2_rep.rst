@@ -28,7 +28,7 @@ Narendhiran S
 Work done:
 ----------
 1. Worked on the gathering and understanding the documentation based on the opencv & numpy. Also about Parsing the svg file(xml.dom.minidom) 
-2. Understanding the code other members created and added some info, graph.py.
+2. Understanding the code other members created and added some info, graph.py. Downloaded sublime text
 
 Insights and Learnings:
 -----------------------
@@ -37,5 +37,6 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`md_ns_d2_2`
-:ref:`ns_d2_3`
+	:ref: `https://www.guru99.com/manipulating-xml-with-python.html`
+	:ref: `https://www.youtube.com/watch?v=8RqxxVEGY-A`
+	:ref: `https://www.coppeliarobotics.com/helpFiles/en/pathImportExport.htm`

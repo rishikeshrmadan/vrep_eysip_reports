@@ -23,3 +23,25 @@ Research & links:
 -----------------
 
 	:ref:`md_d3_1`
+	
+	
+Narendhiran S
+=============
+
+Work done:
+----------
+	1. Worked on the creating a new areana in corel draw for checking the graphs.py and simulataneously learning the software(beginner)
+	2. Understanding the code other members created and added some info, graph.py.
+	3. Reasearched on the linking the childs of different parents in vrep and their constraint conditions
+
+Insights and Learnings:
+-----------------------
+	1. Coreldraw soft
+	2. python documentation on dom.
+Research & links:
+-----------------
+	:ref: `https://www.youtube.com/watch?v=Tr4t1Bfpvbs`
+	:ref: `https://www.youtube.com/watch?v=iKfFNNtfpMU`
+	:ref: `https://www.youtube.com/watch?v=iKfFNNtfpMU`
+	:ref: `https://www.sphinx-doc.org/en/master/man/sphinx-apidoc.html`
+

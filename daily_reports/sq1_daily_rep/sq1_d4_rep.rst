@@ -1,5 +1,5 @@
 **********************
-Squad 1's Day 3 report
+Squad 1's Day 4 report
 **********************
 
 Abhishek Gouda
@@ -7,12 +7,13 @@ Abhishek Gouda
 
 Work done:
 ----------
-1. Created arenas for testing
+1. Downloaded Inkscape and Corel Draw
+2. asdas
 
 Insights and Learnings:
 -----------------------
-1. Learnt about svg attributes
-2. Basics of CorelDraw
+1. Learnt about automatic doc generation systems
+2. Overview of how Sphinx works
 
 Research & links:
 -----------------
@@ -26,13 +27,12 @@ Ayush Patel
 
 Work done:
 ----------
-1. Created JSON exporter
-2. Tested Graph parser
+1. Testing and finding bugs in arena exporting package.
+2. Comparing different CorelDraw versions exported svg's, to make the graph robust. 
 
 Insights and Learnings:
 -----------------------
-1. JSON Structures.
-2. Studied difference between svg file created by different versions of CorelDraw.
+1. Difference between SVG versions.
 
 Research & links:
 -----------------
@@ -45,13 +45,11 @@ Shivam Patil
 
 Work done:
 ----------
-1.Resolved Abhisheks doubt in report filing
-2.Created script to generate arena image from json file
+1.Detected a point in path and created a dictionary
 
 Insights and Learnings:
 -----------------------
-1. Learnt about Dictionaries in python
-2. Learnt about json objects and its creation in python
+1. Learnta about tuples in python
 
 Research & links:
 -----------------

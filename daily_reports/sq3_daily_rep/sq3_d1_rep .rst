@@ -19,8 +19,8 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-:ref:`bb_d1_1`
-:ref:`bb_rk_d1_2`
+1. :ref:`bb_d1_1`
+2. :ref:`bb_d1_2`
 
 Rushikesh Khoche
 ================
