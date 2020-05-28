@@ -8,13 +8,13 @@ MD Ruhulamin Khan
 Work Done
 ----------
 
-	1. Understood the current evaluator system in place
-	2. Worked on presentation
+	1. Started building autoevaluator
+	2. Built out the foundation for the line following evaluation
 
 Insights and Learnings:
 -----------------------
 	
-	1. Knowledge of current autoevaluator
+	1. The Threasholds required to properly operate our autoevaluator
 
 Narendhiran S
 =============
