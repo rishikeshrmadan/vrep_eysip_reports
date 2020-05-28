@@ -7,13 +7,12 @@ Abhishek Gouda
 
 Work done:
 ----------
-1. Downloaded Inkscape and Corel Draw
-2. asdas
+1. Created arenas for testing
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphinx works
+1. Learnt about svg attributes
+2. Basics of CorelDraw
 
 Research & links:
 -----------------

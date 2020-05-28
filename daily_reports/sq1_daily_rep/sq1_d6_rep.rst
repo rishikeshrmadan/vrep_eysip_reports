@@ -6,13 +6,13 @@ Abhishek Gouda
 
 Work done:
 ----------
-1. Downloaded Inkscape and Corel Draw
-2. asdas
+1. Updated the export_json file to call display_json
+2.Testing and modifiying of the arenas
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphinx works
+1. Learnt about python subprocess
+
 
 Research & links:
 -----------------

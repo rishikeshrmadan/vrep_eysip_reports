@@ -6,13 +6,13 @@ Abhishek Gouda
 
 Work done:
 ----------
-1. Downloaded Inkscape and Corel Draw
-2. asdas
+1. Modified the newly created Arenas
+2. Gone through new graph parser
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphinx works
+1. Learnt about SVG export settings
+2. Learnt about json attributes
 
 Research & links:
 -----------------

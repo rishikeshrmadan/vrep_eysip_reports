@@ -39,6 +39,6 @@ Insights and Learnings:
 
 Research & links:
 -----------------
-`:Autocad Tutorial: <https://www.autodesk.com/autodesk-university/class/Fusion-360-Quick-Tip-Jam-Session-2017>`_
+`:coppeliasim Tutorial: <https://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm>`_
 
 :ref:`rk_d0_3`

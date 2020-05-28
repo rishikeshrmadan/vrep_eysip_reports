@@ -7,13 +7,14 @@ Abhishek Gouda
 
 Work done:
 ----------
-1. Downloaded Inkscape and Corel Draw
-2. asdas
+1.Gone through the new export_json file
+2. Removed redundant path in some svg arenas
 
 Insights and Learnings:
 -----------------------
-1. Learnt about automatic doc generation systems
-2. Overview of how Sphinx works
+1. Json files
+2.SVG versions
+
 
 Research & links:
 -----------------
